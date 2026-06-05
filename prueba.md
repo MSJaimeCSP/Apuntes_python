@@ -23,9 +23,10 @@ df_clean = (df                # Limpieza y transformación
 
 # Prueba imagen
 
-![Flujo de datos](imagenes/pyton1.png)
 
 Diagrama de flujo típico en manipulación de datos: carga → limpieza → filtrado → transformación.
+![Flujo de datos](imagenes/pyto2.png)
+
 
 1. Tipos de datos en ciencia de datos
 El término «datos» en este contexto se refiere principalmente a datos estructurados, una categoría amplia que incluye:
@@ -72,6 +73,7 @@ clientes = pd.DataFrame({'cliente_id': [1, 2, 3], 'nombre': ['Alice', 'Bob', 'Ch
 ventas = pd.DataFrame({'venta_id': [101, 102, 103], 'cliente_id': [1, 2, 1], 'monto': [250, 150, 300]})
 Tipos de datos comunes en análisis de datos: tablas, series temporales, arrays multidimensionales y tablas relacionadas.
 
+![Flujo de datos](imagenes/pyton5.png)
 2. Python para análisis de datos
 Python, creado en 1991, se ha consolidado como uno de los lenguajes interpretados más populares, destacando especialmente desde mediados de la década de 2000 gracias a frameworks web como Django. Aunque a menudo se le denomina «lenguaje de scripting» (de eso ya hemos hablado en la materia de Estructuras de Control en Python), esta etiqueta subestima su capacidad para desarrollar software robusto y escalable.
 
