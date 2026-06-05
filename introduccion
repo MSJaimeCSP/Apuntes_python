@@ -1,0 +1,33 @@
+Contenidos de Análisis de datos en Python
+Esta materia está distribuida en 6 unidades didácticas:
+
+Unidad 1: configuración y fundamentos de Python para datos
+Preparar el entorno de trabajo y repasar la lógica de Python necesaria para el análisis.
+Criterios de evaluación: 1.a (bibliotecas).
+Unidad 2: Fundamentos de NumPy y estructuras con Pandas
+Dominar el objeto ndarray y las estructuras clave de Pandas (Series y DataFrame).
+Criterios de evaluación: 1.a, 2.a (Análisis inicial).
+Unidad 3: Carga de datos e interacción con SQL
+Conexión con datos reales. Lectura de ficheros y bases de datos.
+
+Criterios de evaluación: 1.b, 1.c, 1.d, 1.e (lectura, exportación y gestión de BD).
+Unidad 4: Limpieza, preparación y transformación
+El “wrangling”. Gestión de datos faltantes, normalización y discretización.
+
+Criterios de evaluación: 2.b, 2.c, 2.d, 2.e, 2.f (Normalización, limpieza, variables categóricas).
+Unidad 5: Análisis exploratorio y visualización
+Extracción de conocimiento de los datos. Uso de groupby, correlaciones y gráficos.
+
+Criterios de evaluación: 3.a, 3.b, 3.c, 3.d (Resumen de datos, patrones y correlación).
+Unidad 6: Modelado estadístico, predicción y evaluación
+Modelos predictivos y validación.
+
+Criterios de evaluación: 4.a, 4.b, 4.c, 4.d (Regresión lineal, modelos no lineales, train/test split).
+Planificación temporal
+Unidad	Contenidos principales	Sesiones	Fechas aproximadas	
+1. Entorno y fundamentos	Instalación (Conda), Jupyter, estructuras nativas y programación funcional.	15	feb (Sem 1-2)	
+2. NumPy y pandas básico	Arrays, vectorización, Series y DataFrames. Indexación y selección.	25	feb (Sem 3-4)	
+3. Ingesta y bases de datos	Carga de CSV, Excel, JSON. SQL con SQLAlchemy (CRUD desde Python).	35	mar (Sem 1-3)	
+4. Preparación de datos	Limpieza (nulos, duplicados), transformación, normalización y reshaping.	40	mar/abr	
+5. Análisis exploratorio (EDA)	Agregación (groupby), tablas dinámicas y visualización (Matplotlib/Seaborn).	30	abr (Sem 3-4)	
+6. Modelado y predicción	Introducción a Scikit-Learn, regresión lineal y modelos no lineales.	35	mayo (Sem 1-2)	
