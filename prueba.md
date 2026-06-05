@@ -21,8 +21,9 @@ df_clean = (df                # Limpieza y transformación
     .assign(ventas_log=lambda x: np.log(x['ventas'])) # Crear nueva columna con logaritmo de ventas
 )
 
-![Flujo de datos](imagenes/Captura de pantalla 2026-06-05 170617.png)
+# Prueba imagen
 
+![Flujo de datos](imagenes/Captura_de_pantalla_2026-06-05_170617.png)
 
 Diagrama de flujo típico en manipulación de datos: carga → limpieza → filtrado → transformación.
 
