@@ -23,7 +23,7 @@ df_clean = (df                # Limpieza y transformación
 
 # Prueba imagen
 
-![Flujo de datos](imagenes/Captura_de_pantalla_2026-06-05_170617.png)
+![Flujo de datos](imagenes/pyton1.png)
 
 Diagrama de flujo típico en manipulación de datos: carga → limpieza → filtrado → transformación.
 
